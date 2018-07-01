@@ -1,0 +1,11 @@
+figure 1, fully connected neural network, 6
+figure 2, sample decision tree, 8
+figure 3, random forest with two trees, 9
+figure 4, conceptual framework, 11
+figure 5, Which core competencies do employers look for?, 22
+figure 6, use case diagram, 34
+figure 7, class diagram, 36
+figure 8, sequence diagram, 37
+figure 9, scrum diagram, 41
+figure 10, weighted mean formula, 48
+
